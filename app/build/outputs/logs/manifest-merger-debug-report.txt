@@ -1,0 +1,123 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\Kuliah\sms6\PrakPAM\week9\MaterialMe-Starter\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from E:\Kuliah\sms6\PrakPAM\week9\MaterialMe-Starter\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from E:\Kuliah\sms6\PrakPAM\week9\MaterialMe-Starter\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from E:\Kuliah\sms6\PrakPAM\week9\MaterialMe-Starter\app\src\main\AndroidManifest.xml:2:1-21:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\VivoBook\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\61b0bfe99874f1a7131f5df1cc0c10c2\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:design:27.1.1] C:\Users\VivoBook\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\89499b9ee77f9002f0bdad4205af13c2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\VivoBook\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\1f9c49221aeafaeabe72c14bcfe4a56c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\VivoBook\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\802874e22e17f7a9900d581f7368eaf8\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:27.1.1] C:\Users\VivoBook\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.1.1.aar\5625cd833337bf18cdc800a54d3aac5e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\VivoBook\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\321ccb211a0070da7e42b656bdd8410d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\VivoBook\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\4affd47744805ae4005c2b6f58b14c04\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\VivoBook\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\59f76566d266ff37ae4a52ac8475307b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\VivoBook\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\a1554bfa2ab5de1fa14325c962bb95ea\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\VivoBook\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\449590e60394b1a3179dd4c5adad4d06\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\VivoBook\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\b78c394af4e7f6f73f6a164e903c9e2b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.1.1] C:\Users\VivoBook\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\795d347aa53e59bb46ca75cbc2598f40\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\VivoBook\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\e3d1c4d6d68118d0526bb02fd62dc5af\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\VivoBook\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\0811b00de53e591d0f703fbb744a2ad2\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\VivoBook\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\fa6f38b318a94c4336c0ba35c0556308\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\VivoBook\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\8729218f56be55ed1021d01e60572cf9\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\VivoBook\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\99a4807bdc72d24b39f73481dcab5087\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\VivoBook\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\21c031da5429bfab21920fc47c98d8ff\AndroidManifest.xml:17:1-22:12
+INJECTED from E:\Kuliah\sms6\PrakPAM\week9\MaterialMe-Starter\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from E:\Kuliah\sms6\PrakPAM\week9\MaterialMe-Starter\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from E:\Kuliah\sms6\PrakPAM\week9\MaterialMe-Starter\app\src\main\AndroidManifest.xml:2:1-21:12
+	package
+		ADDED from E:\Kuliah\sms6\PrakPAM\week9\MaterialMe-Starter\app\src\main\AndroidManifest.xml:3:5-45
+		INJECTED from E:\Kuliah\sms6\PrakPAM\week9\MaterialMe-Starter\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Kuliah\sms6\PrakPAM\week9\MaterialMe-Starter\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from E:\Kuliah\sms6\PrakPAM\week9\MaterialMe-Starter\app\src\main\AndroidManifest.xml
+		ADDED from E:\Kuliah\sms6\PrakPAM\week9\MaterialMe-Starter\app\src\main\AndroidManifest.xml:2:1-21:12
+		INJECTED from E:\Kuliah\sms6\PrakPAM\week9\MaterialMe-Starter\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from E:\Kuliah\sms6\PrakPAM\week9\MaterialMe-Starter\app\src\main\AndroidManifest.xml
+		ADDED from E:\Kuliah\sms6\PrakPAM\week9\MaterialMe-Starter\app\src\main\AndroidManifest.xml:2:1-21:12
+		INJECTED from E:\Kuliah\sms6\PrakPAM\week9\MaterialMe-Starter\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\Kuliah\sms6\PrakPAM\week9\MaterialMe-Starter\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from E:\Kuliah\sms6\PrakPAM\week9\MaterialMe-Starter\app\src\main\AndroidManifest.xml:5:5-19:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\VivoBook\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\61b0bfe99874f1a7131f5df1cc0c10c2\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\VivoBook\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\61b0bfe99874f1a7131f5df1cc0c10c2\AndroidManifest.xml:9:5-20
+	android:supportsRtl
+		ADDED from E:\Kuliah\sms6\PrakPAM\week9\MaterialMe-Starter\app\src\main\AndroidManifest.xml:9:9-35
+	android:label
+		ADDED from E:\Kuliah\sms6\PrakPAM\week9\MaterialMe-Starter\app\src\main\AndroidManifest.xml:8:9-41
+	android:icon
+		ADDED from E:\Kuliah\sms6\PrakPAM\week9\MaterialMe-Starter\app\src\main\AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from E:\Kuliah\sms6\PrakPAM\week9\MaterialMe-Starter\app\src\main\AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from E:\Kuliah\sms6\PrakPAM\week9\MaterialMe-Starter\app\src\main\AndroidManifest.xml:10:9-40
+activity#com.example.android.MaterialMe.DetailActivity
+ADDED from E:\Kuliah\sms6\PrakPAM\week9\MaterialMe-Starter\app\src\main\AndroidManifest.xml:11:9-61
+	android:name
+		ADDED from E:\Kuliah\sms6\PrakPAM\week9\MaterialMe-Starter\app\src\main\AndroidManifest.xml:11:19-49
+activity#com.example.android.MaterialMe.MainActivity
+ADDED from E:\Kuliah\sms6\PrakPAM\week9\MaterialMe-Starter\app\src\main\AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from E:\Kuliah\sms6\PrakPAM\week9\MaterialMe-Starter\app\src\main\AndroidManifest.xml:12:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from E:\Kuliah\sms6\PrakPAM\week9\MaterialMe-Starter\app\src\main\AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from E:\Kuliah\sms6\PrakPAM\week9\MaterialMe-Starter\app\src\main\AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from E:\Kuliah\sms6\PrakPAM\week9\MaterialMe-Starter\app\src\main\AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from E:\Kuliah\sms6\PrakPAM\week9\MaterialMe-Starter\app\src\main\AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from E:\Kuliah\sms6\PrakPAM\week9\MaterialMe-Starter\app\src\main\AndroidManifest.xml:16:27-74
+uses-sdk
+INJECTED from E:\Kuliah\sms6\PrakPAM\week9\MaterialMe-Starter\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from E:\Kuliah\sms6\PrakPAM\week9\MaterialMe-Starter\app\src\main\AndroidManifest.xml
+INJECTED from E:\Kuliah\sms6\PrakPAM\week9\MaterialMe-Starter\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\VivoBook\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\61b0bfe99874f1a7131f5df1cc0c10c2\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\VivoBook\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\61b0bfe99874f1a7131f5df1cc0c10c2\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:design:27.1.1] C:\Users\VivoBook\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\89499b9ee77f9002f0bdad4205af13c2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.1.1] C:\Users\VivoBook\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\89499b9ee77f9002f0bdad4205af13c2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\VivoBook\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\1f9c49221aeafaeabe72c14bcfe4a56c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\VivoBook\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\1f9c49221aeafaeabe72c14bcfe4a56c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\VivoBook\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\802874e22e17f7a9900d581f7368eaf8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\VivoBook\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\802874e22e17f7a9900d581f7368eaf8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.1.1] C:\Users\VivoBook\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.1.1.aar\5625cd833337bf18cdc800a54d3aac5e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.1.1] C:\Users\VivoBook\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.1.1.aar\5625cd833337bf18cdc800a54d3aac5e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\VivoBook\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\321ccb211a0070da7e42b656bdd8410d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\VivoBook\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\321ccb211a0070da7e42b656bdd8410d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\VivoBook\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\4affd47744805ae4005c2b6f58b14c04\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\VivoBook\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\4affd47744805ae4005c2b6f58b14c04\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\VivoBook\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\59f76566d266ff37ae4a52ac8475307b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\VivoBook\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\59f76566d266ff37ae4a52ac8475307b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\VivoBook\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\a1554bfa2ab5de1fa14325c962bb95ea\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\VivoBook\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\a1554bfa2ab5de1fa14325c962bb95ea\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\VivoBook\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\449590e60394b1a3179dd4c5adad4d06\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\VivoBook\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\449590e60394b1a3179dd4c5adad4d06\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\VivoBook\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\b78c394af4e7f6f73f6a164e903c9e2b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\VivoBook\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\b78c394af4e7f6f73f6a164e903c9e2b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] C:\Users\VivoBook\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\795d347aa53e59bb46ca75cbc2598f40\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] C:\Users\VivoBook\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\795d347aa53e59bb46ca75cbc2598f40\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\VivoBook\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\e3d1c4d6d68118d0526bb02fd62dc5af\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\VivoBook\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\e3d1c4d6d68118d0526bb02fd62dc5af\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\VivoBook\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\0811b00de53e591d0f703fbb744a2ad2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\VivoBook\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\0811b00de53e591d0f703fbb744a2ad2\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\VivoBook\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\fa6f38b318a94c4336c0ba35c0556308\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\VivoBook\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\fa6f38b318a94c4336c0ba35c0556308\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\VivoBook\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\8729218f56be55ed1021d01e60572cf9\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\VivoBook\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\8729218f56be55ed1021d01e60572cf9\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\VivoBook\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\99a4807bdc72d24b39f73481dcab5087\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\VivoBook\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\99a4807bdc72d24b39f73481dcab5087\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\VivoBook\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\21c031da5429bfab21920fc47c98d8ff\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\VivoBook\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\21c031da5429bfab21920fc47c98d8ff\AndroidManifest.xml:20:5-44
+INJECTED from E:\Kuliah\sms6\PrakPAM\week9\MaterialMe-Starter\app\src\main\AndroidManifest.xml
+INJECTED from E:\Kuliah\sms6\PrakPAM\week9\MaterialMe-Starter\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from E:\Kuliah\sms6\PrakPAM\week9\MaterialMe-Starter\app\src\main\AndroidManifest.xml
+		ADDED from E:\Kuliah\sms6\PrakPAM\week9\MaterialMe-Starter\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Kuliah\sms6\PrakPAM\week9\MaterialMe-Starter\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from E:\Kuliah\sms6\PrakPAM\week9\MaterialMe-Starter\app\src\main\AndroidManifest.xml
+		ADDED from E:\Kuliah\sms6\PrakPAM\week9\MaterialMe-Starter\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Kuliah\sms6\PrakPAM\week9\MaterialMe-Starter\app\src\main\AndroidManifest.xml
